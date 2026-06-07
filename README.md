@@ -1,6 +1,6 @@
 # Explainable AI zur Cyberangriffserkennung mit CICIDS2017
 
-Dieses Projekt untersucht, wie Machine-Learning-Modelle Cyberangriffe im Netzwerkverkehr erkennen können und wie Explainable AI genutzt werden kann, um Modellentscheidungen nachvollziehbar zu erklären.
+Im Rahmen des Moduls Business Analytics an der FOM Hochschule untersucht dieses Projekt, wie Machine-Learning-Modelle zur Erkennung von Cyberangriffen im Netzwerkverkehr eingesetzt werden können und wie Explainable AI dazu beiträgt, die getroffenen Modellentscheidungen nachvollziehbar zu interpretieren.
 
 ## Ziel des Projekts
 
