@@ -1,6 +1,12 @@
-# Data
-data/raw/
-data/processed/
+# Data files ignorieren, Ordnerstruktur behalten
+data/raw/*
+data/processed/*
+
+# .gitkeep-Dateien in data-Ordnern trotzdem erlauben
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# CSV/ZIP generell ignorieren
 *.csv
 *.zip
 
